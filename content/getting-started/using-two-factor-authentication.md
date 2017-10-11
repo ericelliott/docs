@@ -6,7 +6,7 @@ featured: true
 # Using Two-Factor Authentication
 
 To meet the increasing need for strong digital security, npm has introduced two-factor authentication (2FA).  2FA prevents unauthorized access to your
-accounts and projects. *Two-factor*  means that someone cannot break into your account with a single method. For example, if you need a card to get into your building, plus a key to access your office, you can't get into the building with only the card or only the key. 
+accounts and projects. *Two-factor*  means that someone cannot break into your account with a single method. For example, if you need a card to get into your building, plus a key code to access your office, you can't get into the building with only the card or only the code. 
 
 You have probably used 2FA before. For example, if you need to provide a code from your phone in addition to logging in with a password to access your online bank account, your bank has enabled 2FA.  
 
